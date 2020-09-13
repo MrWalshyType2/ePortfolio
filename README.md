@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Eportfolio in React
+
+This project aims to use React to build a personal eportfolio, with plans to eventually connect a API built with either node or Spring.
+
+## Why React
+
+- React is a UI library that can also manage its state via the ReactDOM virtual DOM. The ReactDOM implements a whole refresh of its own DOM nodes using lightweight copys of the actual DOMs nodes. This allows the ReactDOM to only update components on the actual DOM that have changed in the ReactDOM.
+
 ## Available Scripts
 
 In the project directory, you can run:

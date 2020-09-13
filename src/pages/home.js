@@ -1,7 +1,6 @@
 import React from 'react';
 
 import ProjectTile from '../components/project-tile';
-import HeaderBox from '../components/header-box';
 import { Link } from 'react-router-dom';
 
 function HomePage(props) {

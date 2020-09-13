@@ -5,6 +5,4 @@
 - Added changelog - (16:10 - 13/09/2020)
 - Created develop branch - (16:10 - 13/09/2020)
 - Created pre-dev branch - (16:36 - 13/09/2020)
-- home.js 'About Me' button wrapped in class and styled - (16:47 - 13/09/2020)
-- added css box-sizing to project-tile components - (17:03 - 13/09/2020)
-- changed display and size properties of ProjectTile components on home page - (17:12 - 13/09/2020)
+- home page created and templated (17:19 - 13/09/2020)

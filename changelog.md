@@ -6,6 +6,4 @@
 - Created develop branch
 - Created pre-dev branch
 - home page created and templated
-
-# LOG 0.2.0
 - Created about page

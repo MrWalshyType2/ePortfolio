@@ -10,7 +10,7 @@ function ProjectPage(props) {
         },
         {
             title: "PEP Project", description: "testing"
-        }];
+    }];
 
     return (
         <div className="container mt-5 d-flex flex-column h-100">

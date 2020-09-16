@@ -17,9 +17,9 @@ function ProjectTile(props) {
 
     return (
         <div className={props.colSize + " h-100"} onLoad={onLoad}>
-            <div className="card border-light mb-3 h-100 project-tile">
+            <div className="card border-light mb-3 h-100 project-tile" onClick={loadProject}>
                 <div className="card-header">{props.title}</div>
-                <img src="https://via.placeholder.com/200" className="card-img-bottom h-100" alt="..." onClick={loadProject}/>
+                <img src="https://via.placeholder.com/200" className="card-img-bottom h-100" alt="..." />
             </div>
         </div>
     );

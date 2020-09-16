@@ -1,4 +1,5 @@
 import React from 'react';
+import ProjectCard from '../components/project-card';
 
 function AboutPage(props) {
 

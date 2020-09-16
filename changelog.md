@@ -7,3 +7,4 @@
 - Created pre-dev branch
 - home page created and templated
 - Created about page
+- project page created and templated
